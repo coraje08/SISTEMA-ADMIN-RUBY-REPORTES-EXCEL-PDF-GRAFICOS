@@ -1,2 +1,5 @@
 # SISTEMA-ADMIN-RUBY-REPORTES-EXCEL-PDF-GRAFICOS
-Sistema administrativo Ruby on Rails, usando un template de boostrap 4, contiene generador reporte de excel y pdf, login, perfil del administrador, shalom
+Sistema administrativo realizado en Ruby on Rails
+*Usando un template de boostrap 4
+*Contiene generador reporte de excel & pdf
+*Login, Perfil del administrador
